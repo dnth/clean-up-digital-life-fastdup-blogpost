@@ -10,6 +10,8 @@ A companion repo for the blog post [Clean Up Your Digital Life: Simplify Your Ph
 
 * `images/` -- Images folder.
 
+* `fastdup_analyze.ipynb` -- A Jupyter notebook to run Fastdup.
+
 
 ## ❌ Duplicate Photos
 
