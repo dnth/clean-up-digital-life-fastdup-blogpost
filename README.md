@@ -13,28 +13,84 @@ A companion repo for the blog post [Clean Up Your Digital Life: Simplify Your Ph
 * `fastdup_analyze.ipynb` -- A Jupyter notebook to run Fastdup.
 
 
+## 🧮 Install and Run
+First, let’s install Fastdup with -
+
+```
+pip install fastdup
+```
+
+Run Fastdup -
+
+```python
+import fastdup
+fastdup.run(input_dir="./images", 
+            work_dir="./fastdup_report",
+            turi_param='ccthreshold=0.88')
+```
+
 ## ❌ Duplicate Photos
+View duplicate images - 
+
+```python
+import fastdup
+from IPython.display import HTML
+fastdup.create_duplicates_gallery(similarity_file='./fastdup_report/similarity.csv',
+                                  save_path='./fastdup_report/', 
+                                  num_images=20)
+
+HTML('./fastdup_report/similarity.html')
+```
 
 ![img](https://dicksonneoh.com/blog/clean_up_your_digital_life/duplicates.png)
 
 
 ## 🤳 Dark, Bright, and Blurry Shots
 
-Dark shots.
+View dark shots.
+
+```python
+fastdup.create_stats_gallery('./fastdup_report/atrain_stats.csv', 
+                             save_path='./fastdup_report', descending=False,
+                             max_width=400, metric='mean')
+HTML('./fastdup_report/mean.html')
+```
 
 ![img](https://dicksonneoh.com/blog/clean_up_your_digital_life/dark.png)
 
-Bright shots.
+View bright shots.
+
+```python
+fastdup.create_stats_gallery('./fastdup_report/atrain_stats.csv', 
+                             save_path='./fastdup_report', 
+                             descending=True,
+                             max_width=400, metric='mean')
+HTML('./fastdup_report/mean.html')
+```
 
 ![img](https://dicksonneoh.com/blog/clean_up_your_digital_life/bright.png)
 
-Blurry shots.
+View blurry shots.
+
+```python
+fastdup.create_stats_gallery('./fastdup_report/atrain_stats.csv', 
+                             save_path='./fastdup_report', 
+                             descending=False,
+                             max_width=400, metric='blur')
+HTML('./fastdup_report/blur.html')
+```
 
 ![img](https://dicksonneoh.com/blog/clean_up_your_digital_life/blur.png)
 
 
 ## 🗂 Clustering Similar Shots
+View clusters - 
 
+```python
+fastdup.create_components_gallery(work_dir='./fastdup_report/',
+                                  save_path='./fastdup_report/')
+HTML('./fastdup_report/components.html')
+```
 
 ![img](https://dicksonneoh.com/blog/clean_up_your_digital_life/cluster_160.png)
 ![img](https://dicksonneoh.com/blog/clean_up_your_digital_life/cluster_6667.png)
