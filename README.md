@@ -8,7 +8,7 @@ A companion repo for the blog post [Clean Up Your Digital Life: Simplify Your Ph
 
 * `fastdup_report/` -- Folder to store Fastdup files.
 
-* `images/` -- Images folder.
+* `images/` -- Images folder. Use your own or download from [Kaggle](https://www.kaggle.com/datasets/duttadebadri/image-classification).
 
 * `fastdup_analyze.ipynb` -- A Jupyter notebook to run Fastdup.
 
@@ -88,7 +88,8 @@ View clusters -
 
 ```python
 fastdup.create_components_gallery(work_dir='./fastdup_report/',
-                                  save_path='./fastdup_report/')
+                                  save_path='./fastdup_report/',
+                                  get_label_func= lambda x:x)
 HTML('./fastdup_report/components.html')
 ```
 
