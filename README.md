@@ -6,40 +6,37 @@ A companion repo for the blog post [Clean Up Your Digital Life: Simplify Your Ph
 
 ## 📂 Folder Structure
 
-* `fastdup_report/` -- Folder to store Fastdup files.
+* `fastdup_report/` -- Folder to store fastdup files.
 
 * `images/` -- Images folder. Use your own or download from [Kaggle](https://www.kaggle.com/datasets/duttadebadri/image-classification).
 
-* `fastdup_analyze.ipynb` -- A Jupyter notebook to run Fastdup.
+* `fastdup_analyze.ipynb` -- A Jupyter notebook to run fastdup.
 
 
 ## 🧮 Install and Run
-First, let’s install Fastdup with -
+First, let’s install fastdup with -
 
 ```
-pip install fastdup
+pip install fastdup==0.903
 ```
 
-Run Fastdup -
+Run fastdup -
 
 ```python
 import fastdup
-fastdup.run(input_dir="./images", 
-            work_dir="./fastdup_report",
-            turi_param='ccthreshold=0.88')
+
+work_dir = "./fastdup_report"
+images_dir = "./images"
+
+fd = fastdup.create(work_dir, images_dir)
+fd.run()
 ```
 
 ## ❌ Duplicate Photos
 View duplicate images - 
 
 ```python
-import fastdup
-from IPython.display import HTML
-fastdup.create_duplicates_gallery(similarity_file='./fastdup_report/similarity.csv',
-                                  save_path='./fastdup_report/', 
-                                  num_images=20)
-
-HTML('./fastdup_report/similarity.html')
+fd.vis.duplicates_gallery()
 ```
 
 ![img](https://dicksonneoh.com/blog/clean_up_your_digital_life/duplicates.png)
@@ -50,10 +47,7 @@ HTML('./fastdup_report/similarity.html')
 View dark shots.
 
 ```python
-fastdup.create_stats_gallery('./fastdup_report/atrain_stats.csv', 
-                             save_path='./fastdup_report', descending=False,
-                             max_width=400, metric='mean')
-HTML('./fastdup_report/mean.html')
+fd.vis.stats_gallery(metric='dark')
 ```
 
 ![img](https://dicksonneoh.com/blog/clean_up_your_digital_life/dark.png)
@@ -61,11 +55,7 @@ HTML('./fastdup_report/mean.html')
 View bright shots.
 
 ```python
-fastdup.create_stats_gallery('./fastdup_report/atrain_stats.csv', 
-                             save_path='./fastdup_report', 
-                             descending=True,
-                             max_width=400, metric='mean')
-HTML('./fastdup_report/mean.html')
+fd.vis.stats_gallery(metric='bright')
 ```
 
 ![img](https://dicksonneoh.com/blog/clean_up_your_digital_life/bright.png)
@@ -73,11 +63,7 @@ HTML('./fastdup_report/mean.html')
 View blurry shots.
 
 ```python
-fastdup.create_stats_gallery('./fastdup_report/atrain_stats.csv', 
-                             save_path='./fastdup_report', 
-                             descending=False,
-                             max_width=400, metric='blur')
-HTML('./fastdup_report/blur.html')
+fd.vis.stats_gallery(metric='blur')
 ```
 
 ![img](https://dicksonneoh.com/blog/clean_up_your_digital_life/blur.png)
@@ -87,10 +73,7 @@ HTML('./fastdup_report/blur.html')
 View clusters - 
 
 ```python
-fastdup.create_components_gallery(work_dir='./fastdup_report/',
-                                  save_path='./fastdup_report/',
-                                  get_label_func= lambda x:x)
-HTML('./fastdup_report/components.html')
+fd.vis.component_gallery()
 ```
 
 ![img](https://dicksonneoh.com/blog/clean_up_your_digital_life/cluster_160.png)
