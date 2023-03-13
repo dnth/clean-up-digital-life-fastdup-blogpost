@@ -32,6 +32,17 @@ fd = fastdup.create(work_dir, images_dir)
 fd.run()
 ```
 
+## 🚫 Invalid Images
+
+Get a list of broken images found by fastdup:
+
+```python
+fd.invalid_instances()
+```
+
+![img](https://dicksonneoh.com/blog/clean_up_your_digital_life/invalid.png)
+
+
 ## 👯‍♂️ Duplicate Images
 View duplicate images - 
 
