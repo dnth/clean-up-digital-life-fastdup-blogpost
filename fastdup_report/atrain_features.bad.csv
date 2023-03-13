@@ -1,60 +1,60 @@
 index,filename,error_code
-9624,images/art and culture/145.jpg,ERROR_ZERO_SIZE_FILE
-9682,images/art and culture/148 (9).jpg,ERROR_ZERO_SIZE_FILE
-9806,images/art and culture/155 (3).jpg,ERROR_ZERO_SIZE_FILE
-9830,images/art and culture/156 (5).jpg,ERROR_ZERO_SIZE_FILE
-10363,images/art and culture/184 (7).jpg,ERROR_ZERO_SIZE_FILE
-10430,images/art and culture/188 (5).jpg,ERROR_ZERO_SIZE_FILE
-11033,images/art and culture/218 (6).jpg,ERROR_ZERO_SIZE_FILE
-11051,images/art and culture/219 (5).jpg,ERROR_ZERO_SIZE_FILE
-11691,images/art and culture/266 (2).jpg,ERROR_ZERO_SIZE_FILE
-11702,images/art and culture/266.jpg,ERROR_ZERO_SIZE_FILE
-12191,images/art and culture/315 (5).jpg,ERROR_ZERO_SIZE_FILE
-12206,images/art and culture/316 (5).jpg,ERROR_ZERO_SIZE_FILE
-12246,images/art and culture/320 (5).jpg,ERROR_ZERO_SIZE_FILE
-12293,images/art and culture/325 (5).jpg,ERROR_ZERO_SIZE_FILE
-12294,images/art and culture/325 (6).jpg,ERROR_ZERO_SIZE_FILE
-12576,images/art and culture/349 (5).jpg,ERROR_ZERO_SIZE_FILE
-12606,images/art and culture/352 (6).jpg,ERROR_ZERO_SIZE_FILE
-12662,images/art and culture/358 (4).jpg,ERROR_ZERO_SIZE_FILE
-12746,images/art and culture/366 (9).jpg,ERROR_ZERO_SIZE_FILE
-12760,images/art and culture/368 (3).jpg,ERROR_ZERO_SIZE_FILE
-12785,images/art and culture/370 (7).jpg,ERROR_ZERO_SIZE_FILE
-12780,images/art and culture/370 (2).jpg,ERROR_ZERO_SIZE_FILE
-12793,images/art and culture/371 (6).jpg,ERROR_ZERO_SIZE_FILE
-13022,images/art and culture/395 (6).jpg,ERROR_ZERO_SIZE_FILE
-13186,images/art and culture/412 (4).jpg,ERROR_ZERO_SIZE_FILE
-13288,images/art and culture/423 (6).jpg,ERROR_ZERO_SIZE_FILE
-13363,images/art and culture/431 (4).jpg,ERROR_ZERO_SIZE_FILE
-13453,images/art and culture/440 (5).jpg,ERROR_ZERO_SIZE_FILE
-13532,images/art and culture/448.jpg,ERROR_ZERO_SIZE_FILE
-13561,images/art and culture/451.jpg,ERROR_ZERO_SIZE_FILE
-13646,images/art and culture/460 (3).jpg,ERROR_ZERO_SIZE_FILE
-13818,images/art and culture/478 (2).jpg,ERROR_ZERO_SIZE_FILE
-13858,images/art and culture/482 (3).jpg,ERROR_ZERO_SIZE_FILE
-13890,images/art and culture/485 (5).jpg,ERROR_ZERO_SIZE_FILE
-14004,images/art and culture/497 (2).jpg,ERROR_ZERO_SIZE_FILE
-14074,images/art and culture/504 (5).jpg,ERROR_ZERO_SIZE_FILE
-14111,images/art and culture/508 (5).jpg,ERROR_ZERO_SIZE_FILE
-14190,images/art and culture/51 (6).jpg,ERROR_ZERO_SIZE_FILE
-14464,images/art and culture/545 (8).jpg,ERROR_ZERO_SIZE_FILE
-14520,images/art and culture/551 (6).jpg,ERROR_ZERO_SIZE_FILE
-14708,images/art and culture/570 (7).jpg,ERROR_ZERO_SIZE_FILE
-14769,images/art and culture/577 (4).jpg,ERROR_ZERO_SIZE_FILE
-14802,images/art and culture/580 (5).jpg,ERROR_ZERO_SIZE_FILE
-14919,images/art and culture/59 (2).jpg,ERROR_ZERO_SIZE_FILE
-15067,images/art and culture/608 (3).jpg,ERROR_ZERO_SIZE_FILE
-15238,images/art and culture/626 (4).jpg,ERROR_ZERO_SIZE_FILE
-15328,images/art and culture/635.jpg,ERROR_ZERO_SIZE_FILE
-15341,images/art and culture/637 (2).jpg,ERROR_ZERO_SIZE_FILE
-16031,images/art and culture/716 (3).jpg,ERROR_ZERO_SIZE_FILE
-16295,images/art and culture/754.jpg,ERROR_ZERO_SIZE_FILE
-16415,images/art and culture/781.jpg,ERROR_ZERO_SIZE_FILE
-16515,images/art and culture/81 (5).jpg,ERROR_ZERO_SIZE_FILE
-16553,images/art and culture/834.jpg,ERROR_ZERO_SIZE_FILE
-16638,images/art and culture/90 (5).jpg,ERROR_ZERO_SIZE_FILE
-16714,images/art and culture/98 (5).jpg,ERROR_ZERO_SIZE_FILE
-18090,images/food and d rinks/1.jpg,ERROR_ZERO_SIZE_FILE
-18443,images/food and d rinks/28 (2).jpg,ERROR_ZERO_SIZE_FILE
-18682,images/food and d rinks/325 (3).jpg,ERROR_ZERO_SIZE_FILE
-19103,images/food and d rinks/424.jpg,ERROR_ZERO_SIZE_FILE
+9624,art and culture/145.jpg,ERROR_ZERO_SIZE_FILE
+9682,art and culture/148 (9).jpg,ERROR_ZERO_SIZE_FILE
+9806,art and culture/155 (3).jpg,ERROR_ZERO_SIZE_FILE
+9830,art and culture/156 (5).jpg,ERROR_ZERO_SIZE_FILE
+10363,art and culture/184 (7).jpg,ERROR_ZERO_SIZE_FILE
+10430,art and culture/188 (5).jpg,ERROR_ZERO_SIZE_FILE
+11033,art and culture/218 (6).jpg,ERROR_ZERO_SIZE_FILE
+11051,art and culture/219 (5).jpg,ERROR_ZERO_SIZE_FILE
+11691,art and culture/266 (2).jpg,ERROR_ZERO_SIZE_FILE
+11702,art and culture/266.jpg,ERROR_ZERO_SIZE_FILE
+12191,art and culture/315 (5).jpg,ERROR_ZERO_SIZE_FILE
+12206,art and culture/316 (5).jpg,ERROR_ZERO_SIZE_FILE
+12246,art and culture/320 (5).jpg,ERROR_ZERO_SIZE_FILE
+12293,art and culture/325 (5).jpg,ERROR_ZERO_SIZE_FILE
+12294,art and culture/325 (6).jpg,ERROR_ZERO_SIZE_FILE
+12576,art and culture/349 (5).jpg,ERROR_ZERO_SIZE_FILE
+12606,art and culture/352 (6).jpg,ERROR_ZERO_SIZE_FILE
+12662,art and culture/358 (4).jpg,ERROR_ZERO_SIZE_FILE
+12746,art and culture/366 (9).jpg,ERROR_ZERO_SIZE_FILE
+12760,art and culture/368 (3).jpg,ERROR_ZERO_SIZE_FILE
+12780,art and culture/370 (2).jpg,ERROR_ZERO_SIZE_FILE
+12785,art and culture/370 (7).jpg,ERROR_ZERO_SIZE_FILE
+12793,art and culture/371 (6).jpg,ERROR_ZERO_SIZE_FILE
+13022,art and culture/395 (6).jpg,ERROR_ZERO_SIZE_FILE
+13186,art and culture/412 (4).jpg,ERROR_ZERO_SIZE_FILE
+13288,art and culture/423 (6).jpg,ERROR_ZERO_SIZE_FILE
+13363,art and culture/431 (4).jpg,ERROR_ZERO_SIZE_FILE
+13453,art and culture/440 (5).jpg,ERROR_ZERO_SIZE_FILE
+13532,art and culture/448.jpg,ERROR_ZERO_SIZE_FILE
+13561,art and culture/451.jpg,ERROR_ZERO_SIZE_FILE
+13646,art and culture/460 (3).jpg,ERROR_ZERO_SIZE_FILE
+13818,art and culture/478 (2).jpg,ERROR_ZERO_SIZE_FILE
+13858,art and culture/482 (3).jpg,ERROR_ZERO_SIZE_FILE
+13890,art and culture/485 (5).jpg,ERROR_ZERO_SIZE_FILE
+14004,art and culture/497 (2).jpg,ERROR_ZERO_SIZE_FILE
+14074,art and culture/504 (5).jpg,ERROR_ZERO_SIZE_FILE
+14111,art and culture/508 (5).jpg,ERROR_ZERO_SIZE_FILE
+14190,art and culture/51 (6).jpg,ERROR_ZERO_SIZE_FILE
+14464,art and culture/545 (8).jpg,ERROR_ZERO_SIZE_FILE
+14520,art and culture/551 (6).jpg,ERROR_ZERO_SIZE_FILE
+14708,art and culture/570 (7).jpg,ERROR_ZERO_SIZE_FILE
+14769,art and culture/577 (4).jpg,ERROR_ZERO_SIZE_FILE
+14802,art and culture/580 (5).jpg,ERROR_ZERO_SIZE_FILE
+14919,art and culture/59 (2).jpg,ERROR_ZERO_SIZE_FILE
+15067,art and culture/608 (3).jpg,ERROR_ZERO_SIZE_FILE
+15238,art and culture/626 (4).jpg,ERROR_ZERO_SIZE_FILE
+15328,art and culture/635.jpg,ERROR_ZERO_SIZE_FILE
+15341,art and culture/637 (2).jpg,ERROR_ZERO_SIZE_FILE
+16031,art and culture/716 (3).jpg,ERROR_ZERO_SIZE_FILE
+16295,art and culture/754.jpg,ERROR_ZERO_SIZE_FILE
+16415,art and culture/781.jpg,ERROR_ZERO_SIZE_FILE
+16515,art and culture/81 (5).jpg,ERROR_ZERO_SIZE_FILE
+16553,art and culture/834.jpg,ERROR_ZERO_SIZE_FILE
+16638,art and culture/90 (5).jpg,ERROR_ZERO_SIZE_FILE
+16714,art and culture/98 (5).jpg,ERROR_ZERO_SIZE_FILE
+18090,food and d rinks/1.jpg,ERROR_ZERO_SIZE_FILE
+18443,food and d rinks/28 (2).jpg,ERROR_ZERO_SIZE_FILE
+18682,food and d rinks/325 (3).jpg,ERROR_ZERO_SIZE_FILE
+19103,food and d rinks/424.jpg,ERROR_ZERO_SIZE_FILE
