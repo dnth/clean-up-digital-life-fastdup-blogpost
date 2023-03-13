@@ -1,131 +1,60 @@
 index,filename,error_code
-153,_Toledo.jpg,ERROR_MISSING_FILE
-670,_exteriores_16.jpg,ERROR_MISSING_FILE
-672,_Cathédrale_Saint-Étienne_PM_37393.jpg,ERROR_MISSING_FILE
-673,_Cath�drale_Saint-�tienne_PM_37393.jpg,ERROR_MISSING_FILE
-706,_den_9_juni_2006,_bild_2.jpg,ERROR_MISSING_FILE
-721,_Tui,_Galiza.jpg,ERROR_MISSING_FILE
-722,_Tui,_Galiza.jpg,ERROR_MISSING_FILE
-723,_Sarria_3.jpg,ERROR_MISSING_FILE
-724,_Sarria_3.jpg,ERROR_MISSING_FILE
-726,_Vnitřní_Město,_Chrám_sv._Barbory,_S_01.jpg,ERROR_MISSING_FILE
-731,_2004d.jpg,ERROR_MISSING_FILE
-727,_Vnitřní_Město,_Chrám_sv._Barbory,_S_03.jpg,ERROR_MISSING_FILE
-783,_kor-enden.jpg,ERROR_MISSING_FILE
-800,_absis.jpg,ERROR_MISSING_FILE
-796,_apse_(Villa_Estense).jpg,ERROR_MISSING_FILE
-804,_Poulton-le-Fylde_apse_and_crocuses.jpg,ERROR_MISSING_FILE
-805,_Apse.jpg,ERROR_MISSING_FILE
-806,_Apse.jpg,ERROR_MISSING_FILE
-809,_chancel_apse_exterior_-_geograph.org.uk_-_1738866.jpg,ERROR_MISSING_FILE
-811,_St_Nikolai_g_(2007-01-23).jpg,ERROR_MISSING_FILE
-829,_Iglesia_La_Magdalena-PM_52801.jpg,ERROR_MISSING_FILE
-3702,_absis_de_la_basílica.jpg,ERROR_MISSING_FILE
-3703,_absis_de_la_bas�lica.jpg,ERROR_MISSING_FILE
-4805,_contraforts_i_campanar_(l'Alguer).jpg,ERROR_MISSING_FILE
-6088,_ábside_de_la_iglesia.jpg,ERROR_MISSING_FILE
-6089,_�bside_de_la_iglesia.jpg,ERROR_MISSING_FILE
-7266,_Basilique_Saint-Sernin_2.jpg,ERROR_MISSING_FILE
-7538,_Vendôme.jpg,ERROR_MISSING_FILE
-7539,_Vend�me.jpg,ERROR_MISSING_FILE
-7567,_Pershore_Abbey_-_geograph.org.uk_-_1058194.jpg,ERROR_MISSING_FILE
-7568,_Pershore_Abbey_-_geograph.org.uk_-_522859.jpg,ERROR_MISSING_FILE
-7590,_Bayford,_Hertfordshire_-_Apse_-_geograph.org.uk_-_354631.jpg,ERROR_MISSING_FILE
-7591,_St_Mary's_Road,_South_Ealing,_London_W5_-_Apse_-_geograph.org.uk_-_1758273.jpg,ERROR_MISSING_FILE
-7594,_església_del_castell-PM_24818.jpg,ERROR_MISSING_FILE
-7595,_esgl�sia_del_castell-PM_24818.jpg,ERROR_MISSING_FILE
-7716,_Hales,_Norfolk_-_Apse_-_geograph.org.uk_-_1492984.jpg,ERROR_MISSING_FILE
-7948,_St_Mary's_church,_Beverley_-_geograph.org.uk_-_1433703.jpg,ERROR_MISSING_FILE
-8237,_arc-boutant.jpg,ERROR_MISSING_FILE
-8246,_Exeter_Cathedral_-_geograph.org.uk_-_654755.jpg,ERROR_MISSING_FILE
-8255,_duomo,_esterno_15.jpg,ERROR_MISSING_FILE
-8261,_Algorta_-_Iglesia_de_la_Santisima_Trinidad_(PP_Trinitarios)_12.jpg,ERROR_MISSING_FILE
-8262,_Algorta_-_Iglesia_de_San_Ignacio_de_Loyola_10.jpg,ERROR_MISSING_FILE
-8254,_duomo,_esterno_09.jpg,ERROR_MISSING_FILE
-8267,_den_13_oktober_2008,_bild_7.jpg,ERROR_MISSING_FILE
-8300,_Ayot_St_Peter,_Herts_-_Apse_-_geograph.org.uk_-_375197.jpg,ERROR_MISSING_FILE
-8681,_Iglesia_del_Carmen,_Alhama_de_Granada,_Andalusia,_Spain.jpg,ERROR_MISSING_FILE
-8682,_November_2004_002.jpg,ERROR_MISSING_FILE
-8686,_church,_apse_and_belltower.jpg,ERROR_MISSING_FILE
-8687,_church,_exterior_details_apse.jpg,ERROR_MISSING_FILE
-8694,_Essex,_England_-_St_John_Evangelist_exterior_-_from_northeast_01.jpg,ERROR_MISSING_FILE
-8700,_Abside.jpg,ERROR_MISSING_FILE
-8702,_Abside.jpg,ERROR_MISSING_FILE
-8708,_abside_dx_01.jpg,ERROR_MISSING_FILE
-8718,_panoràmica,_apse.jpg,ERROR_MISSING_FILE
-8719,_lateral_and_apse.jpg,ERROR_MISSING_FILE
-8720,_panor�mica,_apse.jpg,ERROR_MISSING_FILE
-8721,_lateral_and_apse.jpg,ERROR_MISSING_FILE
-8722,_Apse.jpg,ERROR_MISSING_FILE
-8723,_Apse.jpg,ERROR_MISSING_FILE
-8724,_exterior,_apse.jpg,ERROR_MISSING_FILE
-8726,_Paris_13_September_2010.jpg,ERROR_MISSING_FILE
-8734,_NL)_church,_apse.jpg,ERROR_MISSING_FILE
-8759,_ábside (1).jpg,ERROR_MISSING_FILE
-8760,_ábside.jpg,ERROR_MISSING_FILE
-8761,_�bside (1).jpg,ERROR_MISSING_FILE
-8762,_�bside.jpg,ERROR_MISSING_FILE
-8763,_Aušros_Vartų_Marijos_bažnyčia.jpg,ERROR_MISSING_FILE
-8787,_Walking_Bottom,_Peaslake_(March_2014)_(Apse).jpg,ERROR_MISSING_FILE
-8788,_School_Lane,_Hascombe_(April_2015)_(Apse).jpg,ERROR_MISSING_FILE
-8801,_bažnyčia.jpg,ERROR_MISSING_FILE
-8802,_galinė_dalis.jpg,ERROR_MISSING_FILE
-9624,images/images/art and culture/145.jpg,ERROR_ZERO_SIZE_FILE
-9682,images/images/art and culture/148 (9).jpg,ERROR_ZERO_SIZE_FILE
-9806,images/images/art and culture/155 (3).jpg,ERROR_ZERO_SIZE_FILE
-9830,images/images/art and culture/156 (5).jpg,ERROR_ZERO_SIZE_FILE
-10363,images/images/art and culture/184 (7).jpg,ERROR_ZERO_SIZE_FILE
-10430,images/images/art and culture/188 (5).jpg,ERROR_ZERO_SIZE_FILE
-11033,images/images/art and culture/218 (6).jpg,ERROR_ZERO_SIZE_FILE
-11051,images/images/art and culture/219 (5).jpg,ERROR_ZERO_SIZE_FILE
-11691,images/images/art and culture/266 (2).jpg,ERROR_ZERO_SIZE_FILE
-11702,images/images/art and culture/266.jpg,ERROR_ZERO_SIZE_FILE
-12191,images/images/art and culture/315 (5).jpg,ERROR_ZERO_SIZE_FILE
-12206,images/images/art and culture/316 (5).jpg,ERROR_ZERO_SIZE_FILE
-12246,images/images/art and culture/320 (5).jpg,ERROR_ZERO_SIZE_FILE
-12293,images/images/art and culture/325 (5).jpg,ERROR_ZERO_SIZE_FILE
-12294,images/images/art and culture/325 (6).jpg,ERROR_ZERO_SIZE_FILE
-12576,images/images/art and culture/349 (5).jpg,ERROR_ZERO_SIZE_FILE
-12606,images/images/art and culture/352 (6).jpg,ERROR_ZERO_SIZE_FILE
-12662,images/images/art and culture/358 (4).jpg,ERROR_ZERO_SIZE_FILE
-12746,images/images/art and culture/366 (9).jpg,ERROR_ZERO_SIZE_FILE
-12760,images/images/art and culture/368 (3).jpg,ERROR_ZERO_SIZE_FILE
-12780,images/images/art and culture/370 (2).jpg,ERROR_ZERO_SIZE_FILE
-12785,images/images/art and culture/370 (7).jpg,ERROR_ZERO_SIZE_FILE
-12793,images/images/art and culture/371 (6).jpg,ERROR_ZERO_SIZE_FILE
-13022,images/images/art and culture/395 (6).jpg,ERROR_ZERO_SIZE_FILE
-13186,images/images/art and culture/412 (4).jpg,ERROR_ZERO_SIZE_FILE
-13288,images/images/art and culture/423 (6).jpg,ERROR_ZERO_SIZE_FILE
-13363,images/images/art and culture/431 (4).jpg,ERROR_ZERO_SIZE_FILE
-13453,images/images/art and culture/440 (5).jpg,ERROR_ZERO_SIZE_FILE
-13532,images/images/art and culture/448.jpg,ERROR_ZERO_SIZE_FILE
-13561,images/images/art and culture/451.jpg,ERROR_ZERO_SIZE_FILE
-13646,images/images/art and culture/460 (3).jpg,ERROR_ZERO_SIZE_FILE
-13818,images/images/art and culture/478 (2).jpg,ERROR_ZERO_SIZE_FILE
-13858,images/images/art and culture/482 (3).jpg,ERROR_ZERO_SIZE_FILE
-13890,images/images/art and culture/485 (5).jpg,ERROR_ZERO_SIZE_FILE
-14004,images/images/art and culture/497 (2).jpg,ERROR_ZERO_SIZE_FILE
-14074,images/images/art and culture/504 (5).jpg,ERROR_ZERO_SIZE_FILE
-14111,images/images/art and culture/508 (5).jpg,ERROR_ZERO_SIZE_FILE
-14190,images/images/art and culture/51 (6).jpg,ERROR_ZERO_SIZE_FILE
-14464,images/images/art and culture/545 (8).jpg,ERROR_ZERO_SIZE_FILE
-14520,images/images/art and culture/551 (6).jpg,ERROR_ZERO_SIZE_FILE
-14708,images/images/art and culture/570 (7).jpg,ERROR_ZERO_SIZE_FILE
-14769,images/images/art and culture/577 (4).jpg,ERROR_ZERO_SIZE_FILE
-14802,images/images/art and culture/580 (5).jpg,ERROR_ZERO_SIZE_FILE
-14919,images/images/art and culture/59 (2).jpg,ERROR_ZERO_SIZE_FILE
-15067,images/images/art and culture/608 (3).jpg,ERROR_ZERO_SIZE_FILE
-15238,images/images/art and culture/626 (4).jpg,ERROR_ZERO_SIZE_FILE
-15328,images/images/art and culture/635.jpg,ERROR_ZERO_SIZE_FILE
-15341,images/images/art and culture/637 (2).jpg,ERROR_ZERO_SIZE_FILE
-16031,images/images/art and culture/716 (3).jpg,ERROR_ZERO_SIZE_FILE
-16295,images/images/art and culture/754.jpg,ERROR_ZERO_SIZE_FILE
-16415,images/images/art and culture/781.jpg,ERROR_ZERO_SIZE_FILE
-16515,images/images/art and culture/81 (5).jpg,ERROR_ZERO_SIZE_FILE
-16553,images/images/art and culture/834.jpg,ERROR_ZERO_SIZE_FILE
-16638,images/images/art and culture/90 (5).jpg,ERROR_ZERO_SIZE_FILE
-16714,images/images/art and culture/98 (5).jpg,ERROR_ZERO_SIZE_FILE
-18090,images/images/food and d rinks/1.jpg,ERROR_ZERO_SIZE_FILE
-18443,images/images/food and d rinks/28 (2).jpg,ERROR_ZERO_SIZE_FILE
-18682,images/images/food and d rinks/325 (3).jpg,ERROR_ZERO_SIZE_FILE
-19103,images/images/food and d rinks/424.jpg,ERROR_ZERO_SIZE_FILE
+9624,images/art and culture/145.jpg,ERROR_ZERO_SIZE_FILE
+9682,images/art and culture/148 (9).jpg,ERROR_ZERO_SIZE_FILE
+9806,images/art and culture/155 (3).jpg,ERROR_ZERO_SIZE_FILE
+9830,images/art and culture/156 (5).jpg,ERROR_ZERO_SIZE_FILE
+10363,images/art and culture/184 (7).jpg,ERROR_ZERO_SIZE_FILE
+10430,images/art and culture/188 (5).jpg,ERROR_ZERO_SIZE_FILE
+11033,images/art and culture/218 (6).jpg,ERROR_ZERO_SIZE_FILE
+11051,images/art and culture/219 (5).jpg,ERROR_ZERO_SIZE_FILE
+11691,images/art and culture/266 (2).jpg,ERROR_ZERO_SIZE_FILE
+11702,images/art and culture/266.jpg,ERROR_ZERO_SIZE_FILE
+12191,images/art and culture/315 (5).jpg,ERROR_ZERO_SIZE_FILE
+12206,images/art and culture/316 (5).jpg,ERROR_ZERO_SIZE_FILE
+12246,images/art and culture/320 (5).jpg,ERROR_ZERO_SIZE_FILE
+12293,images/art and culture/325 (5).jpg,ERROR_ZERO_SIZE_FILE
+12294,images/art and culture/325 (6).jpg,ERROR_ZERO_SIZE_FILE
+12576,images/art and culture/349 (5).jpg,ERROR_ZERO_SIZE_FILE
+12606,images/art and culture/352 (6).jpg,ERROR_ZERO_SIZE_FILE
+12662,images/art and culture/358 (4).jpg,ERROR_ZERO_SIZE_FILE
+12746,images/art and culture/366 (9).jpg,ERROR_ZERO_SIZE_FILE
+12760,images/art and culture/368 (3).jpg,ERROR_ZERO_SIZE_FILE
+12785,images/art and culture/370 (7).jpg,ERROR_ZERO_SIZE_FILE
+12780,images/art and culture/370 (2).jpg,ERROR_ZERO_SIZE_FILE
+12793,images/art and culture/371 (6).jpg,ERROR_ZERO_SIZE_FILE
+13022,images/art and culture/395 (6).jpg,ERROR_ZERO_SIZE_FILE
+13186,images/art and culture/412 (4).jpg,ERROR_ZERO_SIZE_FILE
+13288,images/art and culture/423 (6).jpg,ERROR_ZERO_SIZE_FILE
+13363,images/art and culture/431 (4).jpg,ERROR_ZERO_SIZE_FILE
+13453,images/art and culture/440 (5).jpg,ERROR_ZERO_SIZE_FILE
+13532,images/art and culture/448.jpg,ERROR_ZERO_SIZE_FILE
+13561,images/art and culture/451.jpg,ERROR_ZERO_SIZE_FILE
+13646,images/art and culture/460 (3).jpg,ERROR_ZERO_SIZE_FILE
+13818,images/art and culture/478 (2).jpg,ERROR_ZERO_SIZE_FILE
+13858,images/art and culture/482 (3).jpg,ERROR_ZERO_SIZE_FILE
+13890,images/art and culture/485 (5).jpg,ERROR_ZERO_SIZE_FILE
+14004,images/art and culture/497 (2).jpg,ERROR_ZERO_SIZE_FILE
+14074,images/art and culture/504 (5).jpg,ERROR_ZERO_SIZE_FILE
+14111,images/art and culture/508 (5).jpg,ERROR_ZERO_SIZE_FILE
+14190,images/art and culture/51 (6).jpg,ERROR_ZERO_SIZE_FILE
+14464,images/art and culture/545 (8).jpg,ERROR_ZERO_SIZE_FILE
+14520,images/art and culture/551 (6).jpg,ERROR_ZERO_SIZE_FILE
+14708,images/art and culture/570 (7).jpg,ERROR_ZERO_SIZE_FILE
+14769,images/art and culture/577 (4).jpg,ERROR_ZERO_SIZE_FILE
+14802,images/art and culture/580 (5).jpg,ERROR_ZERO_SIZE_FILE
+14919,images/art and culture/59 (2).jpg,ERROR_ZERO_SIZE_FILE
+15067,images/art and culture/608 (3).jpg,ERROR_ZERO_SIZE_FILE
+15238,images/art and culture/626 (4).jpg,ERROR_ZERO_SIZE_FILE
+15328,images/art and culture/635.jpg,ERROR_ZERO_SIZE_FILE
+15341,images/art and culture/637 (2).jpg,ERROR_ZERO_SIZE_FILE
+16031,images/art and culture/716 (3).jpg,ERROR_ZERO_SIZE_FILE
+16295,images/art and culture/754.jpg,ERROR_ZERO_SIZE_FILE
+16415,images/art and culture/781.jpg,ERROR_ZERO_SIZE_FILE
+16515,images/art and culture/81 (5).jpg,ERROR_ZERO_SIZE_FILE
+16553,images/art and culture/834.jpg,ERROR_ZERO_SIZE_FILE
+16638,images/art and culture/90 (5).jpg,ERROR_ZERO_SIZE_FILE
+16714,images/art and culture/98 (5).jpg,ERROR_ZERO_SIZE_FILE
+18090,images/food and d rinks/1.jpg,ERROR_ZERO_SIZE_FILE
+18443,images/food and d rinks/28 (2).jpg,ERROR_ZERO_SIZE_FILE
+18682,images/food and d rinks/325 (3).jpg,ERROR_ZERO_SIZE_FILE
+19103,images/food and d rinks/424.jpg,ERROR_ZERO_SIZE_FILE
