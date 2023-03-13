@@ -32,7 +32,7 @@ fd = fastdup.create(work_dir, images_dir)
 fd.run()
 ```
 
-## ❌ Duplicate Photos
+## 👯‍♂️ Duplicate Images
 View duplicate images - 
 
 ```python
@@ -76,9 +76,7 @@ View clusters -
 fd.vis.component_gallery()
 ```
 
-![img](https://dicksonneoh.com/blog/clean_up_your_digital_life/cluster_160.png)
-![img](https://dicksonneoh.com/blog/clean_up_your_digital_life/cluster_6667.png)
-![img](https://dicksonneoh.com/blog/clean_up_your_digital_life/cluster_16356.png)
+![img](https://dicksonneoh.com/blog/clean_up_your_digital_life/components.png)
 
 ## 📞 Questions? Connect with me
 If you have any questions or feedback, please don't hesitate to reach out to me.
