@@ -1,4 +1,4 @@
-# Clean Up Your Digital Life: Simplify Your Photo Organization and Say Goodbye to Photo Clutter
+# Clean Up Your Digital Life: How I Found 1929 Fully Identical Images, Dark, Bright and Blurry Shots in Minutes, For Free.
 
 ![img](https://dicksonneoh.com/images//blog/clean_up_your_digital_life/post_image.gif)
 
